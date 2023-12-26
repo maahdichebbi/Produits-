@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Produits</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="Prix">Prix :</string>
+    <string name="Quant">Quantité :</string>
+    <string name="Marque">Marque :</string>
+    <string name="description">Description :</string>
+
+</resources>
